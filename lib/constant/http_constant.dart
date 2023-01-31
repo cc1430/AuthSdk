@@ -15,8 +15,8 @@ class HttpConstant{
   static const String BASE_URL_URS_OL_TEST = "http://125.210.163.113:8089/urs-ol";
 
   /// 正式环境
-  static const String BASE_URL_URS_AUTH = BASE_URL_URS_AUTH_TEST; //"http://apigw-gateway.wasumedia.cn/uamauth/oauth";
-  static const String BASE_URL_URS_OL = BASE_URL_URS_OL_TEST; //"http://apigw-gateway.wasumedia.cn/uamol";
+  static const String BASE_URL_URS_AUTH = BASE_URL_URS_AUTH_TEST;
+  static const String BASE_URL_URS_OL = BASE_URL_URS_OL_TEST;
 
   /// Request path -------------------------------------------------------------
 
